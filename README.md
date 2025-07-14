@@ -1,5 +1,4 @@
 # LendingPadTest
-LendingPad Test
 
 1. Install RavenDB version 3.5.10-patch-35312
 
